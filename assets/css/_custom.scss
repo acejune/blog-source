@@ -1,0 +1,46 @@
+// ==============================
+// Custom style
+// ==============================
+
+#toc-static{
+    margin: 30px 0 30px 0;
+}
+
+.single .content hr {
+    margin: 70px 0;
+}
+
+.single .content h3,
+.single .content h4 {
+    margin: 70px 0 20px 0;
+}
+
+.single .content h5 {
+    margin: 50px 0 20px 0;
+}
+
+.single .content ul, 
+.single .content ol {
+    margin: 5px 0 5px 0;
+    padding-left: 2.5rem;
+}
+
+.single .content figure {
+    margin: 25px auto;
+}
+
+.single .content li {
+    margin: 4px 0;
+}
+
+.single .content a:hover {
+    font-weight: bold;
+}
+
+.single .content .katex-display {
+    margin: 15px 0;
+}
+
+.single .content .admonition {
+    margin: 25px 0;
+}
