@@ -194,7 +194,7 @@ enableEmoji = true      # whether to use emoji code
 
 [params]
   title = "june.log"     # website title
-  version = "0.2.X"      # DoIt theme version
+  version = "0.3.X"      # DoIt theme version
   defaultTheme = "auto"  # site default theme ("light", "dark", "black", "auto")
   gitRepo = ""           # public git repo url only then enableGitInfo is true
   fingerprint = ""       # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
