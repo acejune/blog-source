@@ -1,15 +1,14 @@
 ---
 draft: false
 
-title: "Git과 Gitub 기초"
+title: "[정리] Git과 Gitub 기초"
 subtitle: ""
 description: ""
 
-date: 2023-03-10
+date: 2023-03-14
 
 categories: ["Git"]
-tags: ["Git", "Computer Science"]
-series: []
+tags: ["Git"]
 
 toc: 
     enable: true
@@ -330,6 +329,8 @@ Close issue #23
 
 ## 4 Reference
 
-- [Git foundation and introduction](https://programmer.group/enterprise-level-automation-code-release-git-foundation-and-introduction.html)
-
-<br><br><br><br><br><br><br><br>
+- [[GitHub] Git 브랜치의 종류 및 사용법 (5가지)](https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html)
+- [[GitHub] GitHub로 협업하는 방법[3] - Gitflow Workflow](https://gmlwjd9405.github.io/2018/05/12/how-to-collaborate-on-GitHub-3.html)
+- [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [브랜치 전략 수립을 위한 전문가의 조언들](https://blog.hwahae.co.kr/all/tech/9507)
+- [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속](https://meetup.nhncloud.com/posts/106)

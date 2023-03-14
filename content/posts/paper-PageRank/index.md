@@ -8,8 +8,7 @@ description: ""
 date: 2023-03-01
 
 categories: ["Paper"]
-tags: ["Graph", "Computer Science"]
-series: []
+tags: ["Graph"]
 
 toc: 
     enable: true
@@ -21,6 +20,10 @@ toc:
 <br>
 
 [The PageRank Citation Ranking Bringing Order to the Web (1998)](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf) 논문을 정리해보겠습니다.
+
+<br>
+
+ㅤ이 글은 Reference 자료들을 참고하여 정리하였음을 먼저 밝힙니다. 혹시 내용 중 잘못된 점이나 보완할 점 있다면 댓글로 알려주시면 감사하겠습니다. 그럼 시작하겠습니다.
 
 ---
 
