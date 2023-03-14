@@ -19,7 +19,7 @@ toc:
 
 <br>
 
-[The PageRank Citation Ranking Bringing Order to the Web (1998)](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf) 논문을 정리해보겠습니다.
+ㅤ[The PageRank Citation Ranking Bringing Order to the Web (1998)](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf) 논문을 정리해보겠습니다.
 
 <br>
 
